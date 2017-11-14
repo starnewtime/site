@@ -9,6 +9,7 @@ Author: Владимир Зверев
 <?php
 //изменение 1
 //изминение 2
+//первое изменение после коммита_1
 add_action('show_user_profile', 'my_show_extra_profile_fields');
 add_action('edit_user_profile', 'my_show_extra_profile_fields');
 
